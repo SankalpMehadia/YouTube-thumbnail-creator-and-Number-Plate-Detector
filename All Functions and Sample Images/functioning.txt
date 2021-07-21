@@ -1,0 +1,12 @@
+1.Noise Removal
+2.Dialate
+3.Errosion
+4.Subraction for Edge Detection
+5.Eroding Horizontal Straight Lines
+6.Subtract
+7.Fillig using dialation
+8.Sharpening
+9.Erode
+10.Removing Small letter/areas
+11.Using Bounding Box for detecting letters(Bounding Box gives x and y limits)
+12.Controlling function gives the number of boxes
